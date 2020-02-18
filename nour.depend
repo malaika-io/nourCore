@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1581811637 source:/home/pi/software/nour/nour/main.cpp
+	"easywsclient.hpp"
+	"easywsclient.cpp"
+	<assert.h>
+	<stdio.h>
+	<string>
+	<memory>
+	<iostream>
+	<cstring>
+	<jsoncpp/json/json.h>
+	"HTTPRequest.hpp"
+
+1581762467 /home/pi/software/nour/nour/sio_client.h
+	<string>
+	<functional>
+	"sio_message.h"
+	"sio_socket.h"
+
+1581762467 /home/pi/software/nour/nour/sio_message.h
+	<string>
+	<memory>
+	<vector>
+	<map>
+	<cassert>
+	<type_traits>
+
+1581762467 /home/pi/software/nour/nour/sio_socket.h
+	"sio_message.h"
+	<functional>
+
+1581766533 /home/pi/software/nour/nour/build/include/sio_client.h
+	<string>
+	<functional>
+	"sio_message.h"
+	"sio_socket.h"
+
+1581766533 /home/pi/software/nour/nour/build/include/sio_message.h
+	<string>
+	<memory>
+	<vector>
+	<map>
+	<cassert>
+	<type_traits>
+
+1581766533 /home/pi/software/nour/nour/build/include/sio_socket.h
+	"sio_message.h"
+	<functional>
+
+1581772118 /home/pi/software/nour/nour/easywsclient.hpp
+	<string>
+	<vector>
+
+1581772118 /home/pi/software/nour/nour/easywsclient.cpp
+	<fcntl.h>
+	<WinSock2.h>
+	<WS2tcpip.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<io.h>
+	<stdint.h>
+	<fcntl.h>
+	<netdb.h>
+	<netinet/tcp.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<sys/types.h>
+	<unistd.h>
+	<stdint.h>
+	<errno.h>
+	<vector>
+	<string>
+	"easywsclient.hpp"
+
+1581810945 /home/pi/software/nour/nour/HTTPRequest.hpp
+	<algorithm>
+	<functional>
+	<memory>
+	<stdexcept>
+	<system_error>
+	<map>
+	<string>
+	<vector>
+	<cctype>
+	<cstddef>
+	<cstdint>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<netdb.h>
+	<unistd.h>
+	<errno.h>
+
